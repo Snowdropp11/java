@@ -1,0 +1,45 @@
+1. Gün – Java Temelleri ve İlk Program
+Java'nın ne olduğunu gün içinde tekrar oku.
+
+Farklı isim ve yazıda 2 “Merhaba Dünya” uygulaması yaz.
+
+Java’da anahtar kelimeleri araştır (class, public, static, void).
+
+2. Gün – Değişkenler ve Veri Tipleri
+Java’da tam sayı, ondalık, karakter ve mantıksal veri tiplerini öğren.
+
+Kendi örneklerinle 3 farklı veri tipiyle değişken tanımla ve çıktılarını yazdır.
+
+3. Gün – Operatörler
+Aritmetik (+,−,∗,/,), karşılaştırma (>,<,==,!=), mantıksal (&&, ||, !) operatörleriyle örnekler yaz.
+
+Toplama, çıkarma vs. işlemleri yaptıran uygulama yaz.
+
+4. Gün – Kontrol Yapıları (if-else, switch)
+Basit bir sayı tahmin veya yaş kontrol örneği yap.
+
+Switch-case ile gün adı döndüren kod yaz.
+
+5. Gün – Döngüler (for, while)
+1’den 10’a kadar sayıları ekrana yazdıran for ve while döngüsü yaz.
+
+Çift ve tek sayıları ayıran kod yaz.
+
+6. Gün – Metotlar (Fonksiyonlar)
+Parametre alan ve değer döndüren 2 metot yaz.
+
+Main’den bu metotları çağırarak kullan.
+
+7. Gün – Mini Proje ve Alıştırma
+Kullanıcıdan yaş, isim aldığın ufak bir uygulama geliştir.
+
+Kodlarını kısa açıklamalarla yorum satırı haline getir.
+
+
+operatorler
+
+Ve: && (İki şart da doğru olursa true)
+
+Veya: || (En az biri doğru olursa true)
+
+Değil: ! (Şartı tersine çevirir)
