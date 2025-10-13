@@ -33,5 +33,28 @@ public class Arrays {
         for (int i = 0; i < scores.length; i++) {  // Döngü ile dizinin tüm elemanlarını yazdır
             System.out.println(scores[i]);
         }
+
+        int [] numbers= new int [10];
+        numbers[0] = 77;
+        numbers[1] = 83;
+        numbers[2] = 95;
+        numbers[3] = 99;
+        numbers[4] = 566;
+        numbers[5] = 9;
+        numbers[6] = 91;
+        numbers[7] = 92;
+        numbers[8] = 96;
+        numbers[9] = 34;
+        System.out.println("arrayin uzunlugu "+ numbers.length);
+        for (int number : numbers)
+        {System.out.print("- " + number);
+        }
+
+        int sum=0;
+        for (int number : numbers){
+            sum+=number;
+        }
+        System.out.println();
+        System.out.println("The avarege is "+ (double)sum/numbers.length);
     }
 }
