@@ -49,12 +49,16 @@ public class Arrays {
         for (int number : numbers)
         {System.out.print("- " + number);
         }
-
+        int max = numbers[0];
         int sum=0;
         for (int number : numbers){
             sum+=number;
+            if (number>max)
+                max=number;
         }
         System.out.println();
+        System.out.println("max = "+max);
         System.out.println("The avarege is "+ (double)sum/numbers.length);
+
     }
 }
