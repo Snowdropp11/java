@@ -19,7 +19,7 @@ public class SortInArray {
             System.out.print(number + " ");
         }
 
-        int[] numbers = {41, 8, 0, 13, 6, 25}; // 6 elemanlı bir array
+        int[] numbers = {41, 8, 10, 13, 6, 25}; // 6 elemanlı bir array
 
         // Bubble Sort algoritması başlıyor
         int n = numbers.length;
